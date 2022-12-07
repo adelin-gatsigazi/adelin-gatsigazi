@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gatsigazi.adelin@gmail.com**
 
-- ⚡ Fun fact **I am funny when looked on the mirror**
+- ⚡ Fun fact **I am funny when I looked on the mirror**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
