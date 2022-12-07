@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/adelin-gatsigazi" target="blank"><img src="https://img.shields.io/twitter/follow/adelin-gatsigazi?logo=twitter&style=for-the-badge" alt="adelin-gatsigazi" /></a> </p>
 
-- 🔭 I’m currently working on **alx low level programming**
+- 🔭 I’m currently working on **alx higher level programming**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **gatsigazi.adelin@gmail.com**
 
