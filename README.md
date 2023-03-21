@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adelin-gatsigazi" target="blank"><img src="https://img.shields.io/twitter/follow/adelin-gatsigazi?logo=twitter&style=for-the-badge" alt="adelin-gatsigazi" /></a> </p>
 
-- 🔭 I’m currently working on **alx higher level programming**
+- 🔭 I’m currently working on **AirBnB clone - Web static**
 
 - 🌱 I’m currently learning **Python**
 
