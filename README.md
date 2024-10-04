@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
 <h3 align="center">Opportunities don't happen accidentally, you create them, I choose mine within technology</h3>
 <img align="right" alt="Coding" width="700" height="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw0Ldl5KdrRBGjuLAPkKKHMm&ust=1728091105413000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDs7abH84gDFQAAAAAdAAAAABAj">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adelin-gatsigazi&label=Profile%20views&color=0e75b6&style=flat" alt="adelin-gatsigazi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/adelin-gatsigazi" target="blank"><img src="https://img.shields.io/twitter/follow/adelin-gatsigazi?logo=twitter&style=for-the-badge" alt="adelin-gatsigazi" /></a> </p>
-
 - 🔭 I’m currently working on **AirBnB clone - Web static**
 
 - 🌱 I’m currently learning **Python**
