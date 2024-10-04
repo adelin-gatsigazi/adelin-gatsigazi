@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
 <h3 align="center">Opportunities don't happen accidentally, you create them, I choose mine within technology</h3>
-<img align="center" alt="coding-gif" scr="https://camo.githubusercontent.com/27fb835e2e7de796e98b55ba2ba17b508a5e26191936627cb072f8de960a81bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966.gif">
+<img align="center" alt="coding-gif" scr="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0.gif">
 - 🔭 I’m currently working on **plex.tv**
 
 - 🌱 I’m currently learning **Python**
