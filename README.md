@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
 <h3 align="center">Opportunities don't happen accidentally, you create them, I choose mine within technology</h3>
-<img align="center" alt="Coding" width="700" height="500" src="![coding](https://github.com/user-attachments/assets/ec588cff-21d5-4b8e-a95a-2733009ba6f5)
-">
+<img align="center" alt="https://camo.githubusercontent.com/27fb835e2e7de796e98b55ba2ba17b508a5e26191936627cb072f8de960a81bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966">
 - 🔭 I’m currently working on **plex.tv**
 
 - 🌱 I’m currently learning **Python**
