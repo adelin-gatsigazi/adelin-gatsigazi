@@ -2,7 +2,7 @@
 <h3 align="center">Opportunities don't happen accidentally, you create them, I choose mine within technology</h3>
 <img align="center" alt="Coding" width="700" height="500" src="![coding](https://github.com/user-attachments/assets/ec588cff-21d5-4b8e-a95a-2733009ba6f5)
 ">
-- 🔭 I’m currently working on **AirBnB clone - Web static**
+- 🔭 I’m currently working on **plex.tv**
 
 - 🌱 I’m currently learning **Python**
 
