@@ -1,6 +1,12 @@
 ![TNCR-graphics-KB-2](https://github.com/user-attachments/assets/4131e4ae-21a6-45dc-ad45-b5993e8e6f27)<h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
 <h3 align="center">Opportunities don't happen accidentally, you create them. I choose mine within technology</h3>
-<img align="center" alt="coding-gif" scr="coding image.gif">
+<img align="center."
+  alt="coding-gif" 
+  scr="coding image.gif"
+  border-radius: 20%;
+  width: 120px;
+  height: 120px;
+  >
 - 🔭 I’m currently working on **Logistics system**
 
 - 🌱 I’m currently learning **New technology😉**
