@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
-<h3 align="center">Opportunities don't happen accidentally, you create them, I choose mine within technology</h3>
-<img align="center" alt="coding-gif" scr="[[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0.gif](https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1733356800&v=beta&t=N2QT8FPhu76WGm6IbzkoLolbWaUIHoqKnvSyQ11eVNs)](https://iconscout.com/lottie-animation/male-developer-developing-website-5942158)">
-- 🔭 I’m currently working on **plex.tv**
+![TNCR-graphics-KB-2](https://github.com/user-attachments/assets/4131e4ae-21a6-45dc-ad45-b5993e8e6f27)<h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
+<h3 align="center">Opportunities don't happen accidentally, you create them. I choose mine within technology</h3>
+<img align="center" alt="coding-gif" scr="coding image.gif">
+- 🔭 I’m currently working on **Logistics system**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **New technology😉**
 
 - 📫 How to reach me **gatsigazi.adelin@gmail.com**
 
-- ⚡ Fun fact **I am funny when I looked me on the mirror**
+- ⚡ Fun fact **I am funny when I look at myself in the mirror**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
