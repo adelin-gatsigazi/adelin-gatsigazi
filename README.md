@@ -1,6 +1,5 @@
-![TNCR-graphics-KB-2](https://github.com/user-attachments/assets/4131e4ae-21a6-45dc-ad45-b5993e8e6f27)<h1 align="center">Hi 👋, I'm GATSIGAZI Adelin </h1>
+![TNCR-graphics-KB-2](https://github.com/user-attachments/assets/4131e4ae-21a6-45dc-ad45-b5993e8e6f27)<h2 align="center">Hi 👋, I'm GATSIGAZI Adelin </h2>
 <h3 align="center">Opportunities don't happen accidentally, you create them. I choose mine within technology</h3>
-<img align="center" alt="coding-gif" scr="coding image.gif" height="40" width="40">
 - 🔭 I’m currently working on **Logistics system**
 
 - 🌱 I’m currently learning **New technology😉**
